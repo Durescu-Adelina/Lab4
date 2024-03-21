@@ -1,0 +1,40 @@
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\BusinessLogic\bin\Debug\Emgu.CV.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\BusinessLogic\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\BusinessLogic\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\BusinessLogic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\BusinessLogic\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\BusinessLogic\bin\Debug\System.Drawing.Common.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\BusinessLogic\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\BusinessLogic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\BusinessLogic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\BusinessLogic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\BusinessLogic\bin\Debug\System.Text.Json.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\BusinessLogic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\BusinessLogic\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+C:\Lab editare\lab4\lab1\MyApp\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Lab editare\lab4\lab1\MyApp\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Lab editare\lab4\lab1\MyApp\BusinessLogic\bin\Debug\Emgu.CV.dll
+C:\Lab editare\lab4\lab1\MyApp\BusinessLogic\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Lab editare\lab4\lab1\MyApp\BusinessLogic\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+C:\Lab editare\lab4\lab1\MyApp\BusinessLogic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Lab editare\lab4\lab1\MyApp\BusinessLogic\bin\Debug\System.Buffers.dll
+C:\Lab editare\lab4\lab1\MyApp\BusinessLogic\bin\Debug\System.Drawing.Common.dll
+C:\Lab editare\lab4\lab1\MyApp\BusinessLogic\bin\Debug\System.Memory.dll
+C:\Lab editare\lab4\lab1\MyApp\BusinessLogic\bin\Debug\System.Numerics.Vectors.dll
+C:\Lab editare\lab4\lab1\MyApp\BusinessLogic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Lab editare\lab4\lab1\MyApp\BusinessLogic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Lab editare\lab4\lab1\MyApp\BusinessLogic\bin\Debug\System.Text.Json.dll
+C:\Lab editare\lab4\lab1\MyApp\BusinessLogic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Lab editare\lab4\lab1\MyApp\BusinessLogic\bin\Debug\System.ValueTuple.dll
+C:\Lab editare\lab4\lab1\MyApp\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+C:\Lab editare\lab4\lab1\MyApp\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Lab editare\lab4\lab1\MyApp\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Lab editare\lab4\lab1\MyApp\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Lab editare\lab4\lab1\MyApp\BusinessLogic\obj\Debug\BusinessLogic.pdb

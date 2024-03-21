@@ -1,0 +1,113 @@
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\MyApp.exe.config
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\MyApp.exe
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\MyApp.pdb
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\Emgu.CV.Bitmap.dll
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\Emgu.CV.dll
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\Emgu.CV.Platform.NetFramework.dll
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\System.Buffers.dll
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\System.Drawing.Common.dll
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\System.Memory.dll
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\System.Text.Json.dll
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\Emgu.CV.xml
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\Emgu.CV.Bitmap.xml
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\Emgu.CV.Platform.NetFramework.xml
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\System.Buffers.xml
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\System.Drawing.Common.xml
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\System.Memory.xml
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\System.Text.Encodings.Web.xml
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\System.Text.Json.xml
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\bin\x64\Debug\System.ValueTuple.xml
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\obj\x64\Debug\MyApp.Form1.resources
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\obj\x64\Debug\MyApp.Properties.Resources.resources
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\obj\x64\Debug\MyApp.csproj.GenerateResource.cache
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\obj\x64\Debug\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\obj\x64\Debug\MyApp.csproj.CopyComplete
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\obj\x64\Debug\MyApp.exe
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\obj\x64\Debug\MyApp.pdb
+C:\Users\user\Desktop\editare audio video\MyApp\MyApp\obj\x64\Debug\MyApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\obj\x64\Debug\MyApp.Form1.resources
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\obj\x64\Debug\MyApp.Properties.Resources.resources
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\obj\x64\Debug\MyApp.csproj.GenerateResource.cache
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\obj\x64\Debug\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\obj\x64\Debug\MyApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\MyApp.exe.config
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\MyApp.exe
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\MyApp.pdb
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\Emgu.CV.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\Emgu.CV.Bitmap.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\cvextern.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\opencv_videoio_ffmpeg481_64.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\Emgu.CV.Platform.NetFramework.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\concrt140.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\msvcp140.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\msvcp140_1.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\msvcp140_2.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\msvcp140_atomic_wait.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\msvcp140_codecvt_ids.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\vcruntime140.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\vcruntime140_1.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\System.Buffers.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\System.Drawing.Common.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\System.Memory.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\System.Text.Json.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\BusinessLogic.dll
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\bin\x64\Debug\BusinessLogic.pdb
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\obj\x64\Debug\MyApp.csproj.CopyComplete
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\obj\x64\Debug\MyApp.exe
+C:\Users\user\Desktop\editare audio video\lab1\MyApp\MyApp\obj\x64\Debug\MyApp.pdb
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\MyApp.exe.config
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\MyApp.exe
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\MyApp.pdb
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\Emgu.CV.dll
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\Emgu.CV.Bitmap.dll
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\cvextern.dll
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\opencv_videoio_ffmpeg481_64.dll
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\Emgu.CV.Platform.NetFramework.dll
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\concrt140.dll
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\msvcp140.dll
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\msvcp140_1.dll
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\msvcp140_2.dll
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\msvcp140_atomic_wait.dll
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\msvcp140_codecvt_ids.dll
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\vcruntime140.dll
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\vcruntime140_1.dll
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\System.Buffers.dll
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\System.Drawing.Common.dll
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\System.Memory.dll
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\System.Text.Json.dll
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\System.ValueTuple.dll
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\BusinessLogic.dll
+C:\Lab editare\lab4\lab1\MyApp\MyApp\bin\x64\Debug\BusinessLogic.pdb
+C:\Lab editare\lab4\lab1\MyApp\MyApp\obj\x64\Debug\MyApp.csproj.AssemblyReference.cache
+C:\Lab editare\lab4\lab1\MyApp\MyApp\obj\x64\Debug\MyApp.Form1.resources
+C:\Lab editare\lab4\lab1\MyApp\MyApp\obj\x64\Debug\MyApp.Properties.Resources.resources
+C:\Lab editare\lab4\lab1\MyApp\MyApp\obj\x64\Debug\MyApp.csproj.GenerateResource.cache
+C:\Lab editare\lab4\lab1\MyApp\MyApp\obj\x64\Debug\MyApp.csproj.CoreCompileInputs.cache
+C:\Lab editare\lab4\lab1\MyApp\MyApp\obj\x64\Debug\MyApp.csproj.CopyComplete
+C:\Lab editare\lab4\lab1\MyApp\MyApp\obj\x64\Debug\MyApp.exe
+C:\Lab editare\lab4\lab1\MyApp\MyApp\obj\x64\Debug\MyApp.pdb
